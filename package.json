@@ -1,0 +1,19 @@
+{
+  "name": "dynamic_theme",
+  "version": "1.0.0",
+  "description": "Dynamic themes",
+  "main": "backgroud.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shruti9520/DynamicTheme.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shruti9520/DynamicTheme/issues"
+  },
+  "homepage": "https://github.com/Shruti9520/DynamicTheme#readme"
+}
